@@ -2,3 +2,4 @@
 # name = BarbaraNicoleR
 # Ausername = barbaraRiffo
 # conflicto resuelto!!!
+# navegación lista
